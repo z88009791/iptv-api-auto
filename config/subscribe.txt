@@ -17,6 +17,7 @@ https://ghproxy.cc/https://raw.githubusercontent.com/YueChan/Live/main/APTV.m3u
 https://ghproxy.cc/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u
 
 #后加
+https://aktv.top/live.m3u
 https://ifruitlet.com/haiwai.m3u
 https://live.zbds.top/tv/iptv6.m3u
 https://live.zbds.top/tv/iptv4.m3u
