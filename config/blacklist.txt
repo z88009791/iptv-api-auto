@@ -1,3 +1,25 @@
 # 这是接口黑名单列表，符合关键字的接口将被拦截，一个关键字一行
 # This is the interface blacklist list, the interface matching the keyword will be blocked, one keyword line
 /audio/
+
+
+#后加
+jdshipin.com
+iptv8k.top
+freetv.top
+#38.64.72.148
+#39.164.180.36
+#39.170.52.236
+#112.46.85.60
+#36.32.174.67
+#221.2.148.205
+#124.116.183.146
+#47.242.229.105
+#202.168.187.208
+#221.226.4.10
+#113.218.229.47
+#60.29.124.66
+#112.46.85.60
+#下面是录播
+bdstatic.com
+163189.xyz
